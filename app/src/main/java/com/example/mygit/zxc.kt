@@ -5,9 +5,10 @@ fun main() {
     // for(i in 0..10 step 2){
     //      println(i)
     //  }
+
+
+
     // TODO: Виведіть фрукти, назва яких має більше 5 символів
-
-
     // val fruits = listOf("apple", "banana", "cherry", "date")
     //  var counter =0
     //  for (i in fruits){
